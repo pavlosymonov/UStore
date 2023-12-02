@@ -1,5 +1,5 @@
-# UStore - Ecommerce
+# UStore - E-commerce
 
-Look at the result on Github Pages (https://dumagenon.github.io/UStore/)
+Look at the result on Github Pages (https://pavlosymonov.github.io/UStore/)
 
-Project was created with Vanilla JS
+The project was created with Vanilla JS
